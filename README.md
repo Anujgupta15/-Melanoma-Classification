@@ -53,7 +53,7 @@ Download the Model files from the links provided below and upload the whole fold
 
 ### Download repository
 ```
-$ git clone https://github.com/rajprakrit/Melanoma-Classification.git
+$ git clone https://github.com/Anujgupta15/-Melanoma-Classification.git
 ```
 
 After adding the models, and all pre-requisites are met, run the application deployed using streamlit(shown in demo)
